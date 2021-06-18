@@ -1,0 +1,6 @@
+C:\Users\LENOVO\source\repos\ProjectHumanity2\ProjectHumanity2\bin\Debug\ProjectHumanity2.exe.config
+C:\Users\LENOVO\source\repos\ProjectHumanity2\ProjectHumanity2\bin\Debug\ProjectHumanity2.exe
+C:\Users\LENOVO\source\repos\ProjectHumanity2\ProjectHumanity2\bin\Debug\ProjectHumanity2.pdb
+C:\Users\LENOVO\source\repos\ProjectHumanity2\ProjectHumanity2\obj\Debug\ProjectHumanity2.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\ProjectHumanity2\ProjectHumanity2\obj\Debug\ProjectHumanity2.exe
+C:\Users\LENOVO\source\repos\ProjectHumanity2\ProjectHumanity2\obj\Debug\ProjectHumanity2.pdb
